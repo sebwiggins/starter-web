@@ -8,6 +8,10 @@ hello world
 
 ## Purpose
 
+the main purpose is to provide an example for git training demos
+
 ## Deployment
+
+A simple web project
 
 Sample website with plenty of files for demos
